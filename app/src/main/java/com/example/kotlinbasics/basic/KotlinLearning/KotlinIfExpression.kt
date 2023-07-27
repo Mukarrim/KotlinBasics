@@ -1,4 +1,4 @@
-package KotlinLearning
+package com.example.kotlinbasics.basic.KotlinLearning
 
 fun main(){
     val number = -10

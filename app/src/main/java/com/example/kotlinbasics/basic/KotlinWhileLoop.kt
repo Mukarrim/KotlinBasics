@@ -1,4 +1,4 @@
-package KotlinLearning
+package com.example.kotlinbasics.basic
 
  fun main() {
      //Exercise 1
