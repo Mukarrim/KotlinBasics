@@ -1,0 +1,13 @@
+The following collection types relevant to Kotlin:
+    -> List | Ordered collection with access to elements by indices. Elements can occur more than once in a list.
+    -> Set | Collection of unique elements. The position of the elements is not relevant.
+    -> Map | It is a set of key-value pairs. The keys are unique and stores exactly one value with it.
+
+Examples for each collection types:
+
+List -> Telephone number | 0, 7, 5, 5, 3, 3, 8, 3, 9, 8, 9 <- Elements are not unique/Order is important
+Set -> Lottery numbers | 2, 10, 40, 22, 43, 5 <- Elements are unique/Order is not relevant
+Map -> Employee ID with employee position | (1, Owner), (2, CEO), (3, Senior Dev) <- Key/Value pair/Keys are unique/Values can reoccur.
+
+
+https://kotlinlang.org/docs/constructing-collections.html#empty-collections
